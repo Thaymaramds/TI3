@@ -1,0 +1,65 @@
+{
+  "thay-nail": [
+    {
+      "id": 1,
+      "name": "Unha de acrigel"
+        
+    },
+    {
+      "id": 2,
+      "name": "Pé e mão simples"
+    },
+    {
+      "id": 3,
+      "name": "Fibra de vidro"
+    },
+    {
+      "id": 4,
+      "name": "Spa dos pés"
+    }
+  
+  ],
+  "precos": [
+    {
+      "id": 1,
+      "name": "R$ 100,00"
+    },
+    {
+      "id": 2,
+      "name": "R$ 30,00"
+    },
+    {
+      "id": 3,
+      "name": "R$ 140,00"
+    },
+    {
+      "id": 4,
+      "name": "R$ $35,00"
+    }
+  ],
+  "agenda": [
+    {
+      "id": 1,
+      "name": "Terca-feira",
+      "tema": "horarios disponiveis"
+    },
+    {
+      "id": 2,
+      "name": "Quarta-feira",
+      "tema": "Promoções"
+    },
+    {
+      "id": 3,
+      "name": "Quinta-feira",
+      "tema": "Spa dos pés, promocão"
+    },
+    {
+      "id": 4,
+      "name": "Sexta-feira",
+      "tema": "Promoção da fibra de vidro e ganhe um pé grátis"
+    },
+    {
+      
+    }
+  ]
+}
